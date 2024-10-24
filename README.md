@@ -14,7 +14,7 @@
 - The result is displayed below the input fields.
 - You can copy the result for further use or input it directly into another field.
 
-#Future Improvements
+# Future Improvements
 - Add a dark/light mode theme for the user interface.
 - Improve input validation with better error highlighting.
 - Introduce real-time parsing and computation for enhanced user experience.
